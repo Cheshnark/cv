@@ -1,0 +1,29 @@
+body {
+  background-color: #FEFBE7;
+}
+
+hr {
+  background-color: transparent;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #A0BCC2;
+  height: 0;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+p {
+  text-align: justify;
+  text-
+}
+
+ol {
+  list-style-type: decimal;
+}
